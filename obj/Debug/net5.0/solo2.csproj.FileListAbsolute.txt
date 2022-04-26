@@ -1,0 +1,16 @@
+F:\School\CSE 210\Projects\solo2\bin\Debug\net5.0\solo2.exe
+F:\School\CSE 210\Projects\solo2\bin\Debug\net5.0\solo2.deps.json
+F:\School\CSE 210\Projects\solo2\bin\Debug\net5.0\solo2.runtimeconfig.json
+F:\School\CSE 210\Projects\solo2\bin\Debug\net5.0\solo2.runtimeconfig.dev.json
+F:\School\CSE 210\Projects\solo2\bin\Debug\net5.0\solo2.dll
+F:\School\CSE 210\Projects\solo2\bin\Debug\net5.0\ref\solo2.dll
+F:\School\CSE 210\Projects\solo2\bin\Debug\net5.0\solo2.pdb
+F:\School\CSE 210\Projects\solo2\obj\Debug\net5.0\solo2.csproj.AssemblyReference.cache
+F:\School\CSE 210\Projects\solo2\obj\Debug\net5.0\solo2.GeneratedMSBuildEditorConfig.editorconfig
+F:\School\CSE 210\Projects\solo2\obj\Debug\net5.0\solo2.AssemblyInfoInputs.cache
+F:\School\CSE 210\Projects\solo2\obj\Debug\net5.0\solo2.AssemblyInfo.cs
+F:\School\CSE 210\Projects\solo2\obj\Debug\net5.0\solo2.csproj.CoreCompileInputs.cache
+F:\School\CSE 210\Projects\solo2\obj\Debug\net5.0\solo2.dll
+F:\School\CSE 210\Projects\solo2\obj\Debug\net5.0\ref\solo2.dll
+F:\School\CSE 210\Projects\solo2\obj\Debug\net5.0\solo2.pdb
+F:\School\CSE 210\Projects\solo2\obj\Debug\net5.0\solo2.genruntimeconfig.cache
